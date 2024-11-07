@@ -26,7 +26,7 @@ while True:
             exit()
 
     # Fill the background with white
-    screen.fill((255, 255, 255))
+    screen.fill((255, 255, 251))
 
     # Draw a solid blue circle in the center
     #draw.circle(surface=the screen you want it to appear, color= in rgb, (x,y)coordinates, radius)
